@@ -8,14 +8,14 @@
 #THE BEST FOLLOW UNFOLLOW BOT TERMUX WORCKED
 #LINUX PC WINDOW ..ETC 100% WORCKING
 
-# INSTALLING.. COMMANDS
+# INSTALLING TERMUX
 
 - pkg install python
 - pkg install pip
 - pip install -r requirements.txt
 - python igrobo.py
 
-- JUST TYPE "igrobo" ANY FOLDER
+# JUST TYPE "igrobo" ANY FOLDER
 - AM TO PM
 - 8 : 00 To 9 : 30 USING GOOD RESULT
 - DATA BASE INCLUDE
