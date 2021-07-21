@@ -13,6 +13,7 @@ TERMUX CAMMONDS.
 
 - pkg install python
 - pkg install pip
+- git clone https://github.com/iamshibilc/IG-ROBO.git
 - pip install -r requirements.txt
 - python igrobo.py
 
