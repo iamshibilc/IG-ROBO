@@ -17,7 +17,7 @@ TERMUX CAMMONDS.
 - pip install -r requirements.txt
 - python igrobo.py
 
-# JUST TYPE "igrobo" ANY FOLDER
+# IG-ROBO USING 
 - AM TO PM
 - 8 : 00 To 9 : 30 USING GOOD RESULT
 - DATA BASE INCLUDE
