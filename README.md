@@ -24,10 +24,10 @@ TIME2 07 PM-10 PM
 ### INSTALLATION
 
 ```
-git clone https://github.com/cyberjeevi/py-obfuscator/
+git clone https://github.com/iamshibilc/IG-ROBO/
 ```
 ```
-cd py-obfuscator/
+cd IG-ROBO/
 ```
 ```
 pip install -r requirements.txt
