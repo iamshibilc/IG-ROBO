@@ -33,7 +33,7 @@ cd IG-ROBO/
 pip install -r requirements.txt
 ```
 ```
-python igrobo.py
+unzip Igrobo.zip && python Igrobo.py
 ```
 
 ### CODE ISSU
